@@ -26,7 +26,7 @@ module.exports = {
       options: {
         typeName: "WordPress",
         fieldName: "wordpress",
-        url: "https://gatsby.wdslab.com/graphql",
+        url: "http://panel.grafon.net/kemer/graphql",
         refetchInterval: 60
       }
     },
