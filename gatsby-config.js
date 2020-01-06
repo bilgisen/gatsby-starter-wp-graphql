@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://gatsby.wdslab.com",
+    siteUrl: "http://panel.grafon.net/kemer/",
     organization: {
       name: "WebDevStudios",
-      url: "https://gatsby.wdslab.com",
+      url: "http://panel.grafon.net/kemer/",
       logo:
         "http://gatsby.wdslab.com/wp-content/uploads/2019/08/wds-logo-small.png"
     },
@@ -26,7 +26,7 @@ module.exports = {
       options: {
         typeName: "WordPress",
         fieldName: "wordpress",
-        url: "https://gatsby.wdslab.com/graphql",
+        url: "http://panel.grafon.net/kemer/graphql",
         refetchInterval: 60
       }
     },
